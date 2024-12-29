@@ -1,0 +1,16 @@
+{
+    "name": "SSNL/Website",
+    "autoload": {
+        "psr-4": {
+            "SSNL\\Website\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Website"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
